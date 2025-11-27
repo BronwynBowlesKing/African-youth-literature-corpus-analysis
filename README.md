@@ -1,7 +1,7 @@
-# Research data and analysis tools for a study of African youth literature
+## Research data and analysis tools for a study of African youth literature
 This repository contains the research data and Jupyter notebooks used in the study entitled: "The Eyes Tell a Story": A hermenumerical study of theme and motif in African youth literature.
 
-## Repository contents
+### Repository contents
 
 ### Corpus files (/jaylit_african_youth_literature_corpus)
 - 155 plain text files containing the primary sources.
@@ -29,5 +29,5 @@ Requirements:
 - term_filter_list_pos.csv
 - jaylit_african_youth_literature_corpus files
 
-## Acknowledgements
+### Acknowledgements
 This research was conducted with texts published in the open-access publication *The Journal of African Youth Literature* (https://jaylit.com), which is dedicated to young African writers. Gratitude is extended to the youth authors whose creative works form this corpus.
